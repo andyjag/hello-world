@@ -1,5 +1,5 @@
-# hello-world
-New Repository
+# hello
+New
 
 Hi all,
 
